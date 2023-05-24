@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CatCentralGitHub!
+- 👋 Hi, I’m @FunniFlow!
 - 👀 I’m interested in ... idk
 - 🌱 I’m currently learning ... something, but nothing specifically.
 - 💞️ I’m looking to collaborate on ... nothing.
